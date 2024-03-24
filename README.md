@@ -49,8 +49,23 @@ ___
 
 ## Imagenes
 
+## Codigo
 
+Asi se vería un codigo
+~~~
+La vista previa puede no ser completamente precisa, especialmente para elementos complejos como tablas o diagramas.
+~~~
 
+~~~
+public static void main(String[] args) {
+		try {
+			try {
+				metodoG();
+			} catch (G e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+~~~
 
 
 
