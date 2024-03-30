@@ -1,89 +1,30 @@
-# Entornos de práctica Git
+# Bienvenido al Perfil de Antonio
 
-Este repositorio se ha creado para practicar el uso del lenguaje de marcado Markdown y la creación de una página web personal con GitPages.
+¡Hola! Mi nombre es Antonio. Soy un apasionado programador de 24 años.
 
-## Contenido
+## Sobre mí
+Desde que era joven, siempre he tenido una fascinación por la tecnología y la programación. A lo largo de los años, he adquirido habilidades en diferentes lenguajes de programación y tecnologías relacionadas.
 
-* **Markdown:** Este archivo README.md contiene una breve descripción del repositorio y ejemplos de las características de Markdown que se han aprendido.
+## Experiencia
+Actualmente, me especializo en las siguientes áreas:
+- Desarrollo web (HTML, CSS, JavaScript)
+- Desarrollo de aplicaciones (Java, Python)
+- Bases de datos (SQL, MongoDB)
+- Desarrollo móvil (Android)
 
-# Lista de encabezados (Esta es de tipo de h1)
+## Proyectos Destacados
+Aquí hay algunos proyectos en los que he trabajado recientemente:
+1. **Sistema de Gestión de Inventarios:** Desarrollé un sistema de gestión de inventarios para una pequeña empresa utilizando Python y MySQL.
+2. **Aplicación de Lista de Tareas:** Creé una aplicación web de lista de tareas utilizando HTML, CSS y JavaScript para ayudarme a mantenerme organizado en mis proyectos personales.
+3. **Juego de Preguntas y Respuestas:** Desarrollé un juego de preguntas y respuestas en Android utilizando Java para mejorar mis habilidades en el desarrollo móvil.
 
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 6
+## Objetivos
+Estoy constantemente buscando mejorar mis habilidades y aprender nuevas tecnologías. Mi objetivo a corto plazo es dominar el desarrollo de aplicaciones web utilizando frameworks modernos como React y Node.js. A largo plazo, aspiro a convertirme en un desarrollador full-stack altamente competente.
 
-## Lista ordenada
+## Contacto
+Si deseas ponerte en contacto conmigo para discutir oportunidades de colaboración o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
+- Correo electrónico: [correo@example.com](mailto:antonioperezbermejo@hotmail.com)
+- LinkedIn: [Antonio en LinkedIn](https://www.linkedin.com/in/antonioprogramador)
 
-1. La Borriquita
-2. Jesus Despojado
-3. La Paz
+**Esto no deja de ser un ejemplo, por ejemplo los proyectos son inventados y por ejemplo el linkedin**
 
-## Lista desordenada
-
-* Elemento 1
-- Elemento 2
-+ Elemento 3
-
-## Citas
-
-> Esto es una cita
-
-## Separaciones
-
-Esto es una separacion que en html hariamos por ejemplo con br
-___
-
-## Negritas y cursivas 
-
-*Markdown es un lenguaje de marcado ligero que te permite crear documentos con formato de forma sencilla y legible. Es ideal para escribir README, blogs, notas, presentaciones y mucho más.*
-
-**Markdown es un lenguaje de marcado ligero que te permite crear documentos con formato de forma sencilla y legible. Es ideal para escribir README, blogs, notas, presentaciones y mucho más.**
-
-***Markdown es un lenguaje de marcado ligero que te permite crear documentos con formato de forma sencilla y legible. Es ideal para escribir README, blogs, notas, presentaciones y mucho más.***
-
-## Enlaces 
-
-<https://www.realbetisbalompie.es/>
-
-## Imagenes
-
-## Codigo
-
-Asi se vería un codigo
-~~~
-La vista previa puede no ser completamente precisa, especialmente para elementos complejos como tablas o diagramas.
-~~~
-
-~~~
-public static void main(String[] args) {
-		try {
-			try {
-				metodoG();
-			} catch (G e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-~~~
-
-
-
-
-
-
-
-
-
-**Características adicionales a considerar:**
-
-* **Definición de listas:** Utiliza `1.`, `*`, o  `-` para  crear listas.
-* **Citas en bloque:** Inicia con `>`.
-* **Encabezados (hasta nivel 6):** Utiliza desde `#` hasta `######`.
-* **Separador horizontal:** Crea una línea con `---`.
-
-| Producto | Precio | Cantidad |
-|---|---|---|
-| Chester | 5€ | 5 |
-| Camel | 6.50€€ | 10 |
-| Luxury | 8€ | 20 |
