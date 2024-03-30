@@ -1,5 +1,7 @@
 # Bienvenido al Perfil de Antonio
 
+![Garban Java Logo](garban-java-high-resolution-logo.png) 
+
 ¡Hola! Mi nombre es Antonio. Soy un apasionado programador de 24 años.
 
 ## Sobre mí
