@@ -2,7 +2,7 @@
 
 Este repositorio se ha creado para crear un ejemplo del uso del lenguaje Markdown y de la creación de una página web personal con GitPages:
 
-# Encabezados
+# Lista de encabezados
 
 # Encabezado 1
 ## Encabezado 2
@@ -12,22 +12,21 @@ Este repositorio se ha creado para crear un ejemplo del uso del lenguaje Markdow
 
 ## Negritas y cursivas
 
-- *Texto en cursiva*
-
 - **Texto en negrita**
+
+- *Texto en cursiva*
 
 ## Lista ordenada
 
 1. Real Madrid
 2. Real Betis
 3. Valencia
-4. Huesca
 
 ## Lista desordenada
 
 * Pizza
-- Hamburguesa
-+ Helado
+* Hamburguesa
+* Helado
 
 ## Separaciones
 
