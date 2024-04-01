@@ -1,11 +1,9 @@
-# Bienvenido al Perfil de Antonio
+# Bienvenido al Perfil de Ale
 
-![Garban Java Logo](garban-java-high-resolution-logo.png) 
-
-¡Hola! Mi nombre es Antonio. Soy un apasionado programador de 24 años.
+¡Hola, encantado de conocerte! Mi nombre es Alejandro. Soy un estudiante de DAW con 18 años. Me gusta mucho los deportes y los videojuegos, en mi tiempo libre suelo ir a jugar al fútbol y al pádel, por supuesto que también juego a videojuegos. Te dejo que me conozcas un poco mas:
 
 ## Sobre mí
-Desde que era joven, siempre he tenido una fascinación por la tecnología y la programación. A lo largo de los años, he adquirido habilidades en diferentes lenguajes de programación y tecnologías relacionadas.
+Desde chico me encantaba jugar al fútbol, pero realmente me gustan todos los deportes. Tambien mostré una enorme pasión por los dispositivos electrónicos y los videojuegos ya que se me daban muy bien. Ahora teniendo un poco de conocimientos sobre la infórmatica me he sumergido en este mundo de la programación.
 
 ## Experiencia
 Actualmente, me especializo en las siguientes áreas:
@@ -25,8 +23,7 @@ Estoy constantemente buscando mejorar mis habilidades y aprender nuevas tecnolog
 
 ## Contacto
 Si deseas ponerte en contacto conmigo para discutir oportunidades de colaboración o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
-- Correo electrónico: [correo@example.com](mailto:antonioperezbermejo@hotmail.com)
-- LinkedIn: [Antonio en LinkedIn](https://www.linkedin.com/in/antonioprogramador)
+- Correo electrónico: [correo@example.com](mailto:aramoscore31@gmail.com)
 
 **Esto no deja de ser un ejemplo, por ejemplo los proyectos son inventados y por ejemplo el linkedin**
 

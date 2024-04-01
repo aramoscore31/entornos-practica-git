@@ -23,9 +23,9 @@ Este repositorio se ha creado para practicar el uso del lenguaje de marcado Mark
 
 ## Lista desordenada
 
-* Elemento 1
-- Elemento 2
-+ Elemento 3
+* Pizza
+- Hamburguesa
++ Helado
 
 ## Citas
 
@@ -46,7 +46,7 @@ ___
 
 ## Enlaces 
 
-<https://www.realbetisbalompie.es/>
+<https://www.google.es/>
 
 ## Imagenes
 
