@@ -1,10 +1,6 @@
-# Entornos de práctica Git
+# Demostración de Markdown
 
-Este repositorio se ha creado para practicar el uso del lenguaje de marcado Markdown y la creación de una página web personal con GitPages.
-
-## Contenido
-
-* **Markdown:** Este archivo README.md contiene una breve descripción del repositorio y ejemplos de las características de Markdown que se han aprendido.
+Este repositorio se ha creado para crear un ejemplo del uso del lenguaje Markdown y de la creación de una página web personal con GitPages:
 
 # Lista de encabezados (Esta es de tipo de h1)
 
