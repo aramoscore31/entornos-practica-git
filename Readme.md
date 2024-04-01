@@ -14,6 +14,6 @@ Actualmente, me especializo en las siguientes áreas:
 
 ## Contacto
 En caso de que tengas alguna duda o quieras ponerte en contacto conmigo ¡CONTÁCTAME!
-- Correo electrónico: [correo@example.com](mailto:aramoscore31@gmail.com)
+- Correo electrónico: [aramoscore31@gmail.com](mailto:aramoscore31@gmail.com)
 
 
