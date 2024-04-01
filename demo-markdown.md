@@ -16,9 +16,10 @@ Este repositorio se ha creado para practicar el uso del lenguaje de marcado Mark
 
 ## Lista ordenada
 
-1. La Borriquita
-2. Jesus Despojado
-3. La Paz
+1. Real Madrid
+2. Real Betis
+3. Valencia
+4. Huesca
 
 ## Lista desordenada
 
