@@ -5,8 +5,8 @@
 ## Sobre mí
 Desde chico me encantaba jugar al fútbol, pero realmente me gustan todos los deportes. Tambien mostré una enorme pasión por los dispositivos electrónicos y los videojuegos ya que se me daban muy bien. Ahora teniendo un poco de conocimientos sobre la infórmatica me he sumergido en este mundo de la programación.
 
-## Experiencia
-Actualmente, me especializo en las siguientes áreas:
+## Experiencia Laboral
+Actualmente me especializo en lo siguiente:
 - Desarrollo web (HTML5, CSS, JavaScript)
 - Monstaje y mantenimiento de equipos informaticos (ordenadores, portátiles, móviles)
 - Bases de datos (SQL, MariaDB)
